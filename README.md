@@ -10,4 +10,4 @@ Also included in this repo is a tool to pick a random rune from the Elder Futhar
 
 #Dependancies
 
-The Cowsay package is not installed by default, however it is not completly needed for this script to be run, if you do not want to install cowsay, replacee the "cowsay.cow" on line 7 with print. Easy as that!
+The Cowsay package is not installed by default, however it is not completly needed for this script to be run, if you do not want to install cowsay, replacee the "cowsay.cow" on line 7 with print and remove the cowsay import statement. Easy as that!
