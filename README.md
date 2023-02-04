@@ -1,10 +1,5 @@
-# Havamal-Wisdom
-A fun little project for all my fellow heathens / norse pagans. This script picks a random line from the Havamal and prints it in your terminal.
+#Havamal Wisdom
+The Havamal is an ancient old norse text, which is said to contain advice on living from the cheif god, and god of wisdom Odin.
 
-
-So far I have only added 15 lines. Any contributions are greatly aprreciated. For this perticular program to work the stanza must be in one singular line in the text file.
-
-Skall Heathens.
-
-DISCLAIMER:
-Many affiliate Heathenism or Norse Paganism with Nazi Germany. I never have, and never will support any ideas that promote hatred or discrimination toward any good hearted individual. For more information on see: https://www.heathensagainst.org/
+#Functionality
+This tool will pick a random stanza from the included havamal file, and present it to your terminal, just incase you needed a piece of wisdom!
